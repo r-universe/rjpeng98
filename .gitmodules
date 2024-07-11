@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ETASbootstrap"]
 	path = ETASbootstrap
-	url = https://github.com/cran/ETASbootstrap
+	url = https://github.com/rjpeng98/etasbootstrap
